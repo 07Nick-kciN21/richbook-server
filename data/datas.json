@@ -1,84 +1,61 @@
 {
+  "2024-08-11": [
+    {
+      "income_or_expenditure": "expenditure",
+      "type": "娛樂",
+      "cost": "50",
+      "remark": "測試",
+      "id": "9ac43a16bbf9836df47255c4e11c37892a50ebc2782e81560c56d15be806bd85"
+    }
+  ],
   "2024-08-20": [
     {
-      "type": "飲食",
       "income_or_expenditure": "income",
-      "cost": 30,
-      "remark": "早餐"
+      "type": "飲食",
+      "cost": "100",
+      "remark": "早餐",
+      "id": "4e7ffd291e8bd2acd575ddafd04ece6e42399f7c2ef7b186b8e166167fee8671"
     },
     {
-      "type": "文具",
       "income_or_expenditure": "expenditure",
-      "cost": 30,
-      "remark": "鉛筆"
-    },
-    {
-      "type": "娛樂",
-      "income_or_expenditure": "income",
-      "cost": 50,
-      "remark": "玩具"
-    },
-    {
       "type": "飲食",
-      "income_or_expenditure": "income",
-      "cost": 70,
-      "remark": "午餐"
+      "cost": "150",
+      "remark": "晚餐",
+      "id": "1a8c0ca6b2491d84b74ff6c2a2e2b432e12c1e121d5bf10e34942e8c4e1e4b2f"
+    },
+    {
+      "income_or_expenditure": "expenditure",
+      "type": "飲食",
+      "cost": "150",
+      "remark": "晚餐",
+      "id": "35c3e96682957a1b5e6efab3433294b4fefd328fceafd6962b80430b3059e9d3"
     }
   ],
   "2024-08-21": [
     {
-      "type": "飲食",
       "income_or_expenditure": "income",
-      "cost": 30,
-      "remark": "早餐"
-    },
-    {
-      "type": "娛樂",
-      "income_or_expenditure": "income",
-      "cost": 50,
-      "remark": "儲值"
+      "type": "test",
+      "cost": "50",
+      "remark": "456",
+      "id": "de7a92f2d8492d9b73e626a034e832cfddb5a7bf7fe70abdcda8a647590b826c"
     }
   ],
   "2024-08-22": [
     {
-      "type": "飲食",
       "income_or_expenditure": "income",
-      "cost": 30,
-      "remark": "早餐"
-    }
-  ],
-  "2024-08-25": [
-    {
-      "type": "交通",
-      "income_or_expenditure": "expenditure",
-      "cost": 50,
-      "remark": "地鐵票"
-    },
-    {
-      "type": "交通",
-      "income_or_expenditure": "expenditure",
-      "cost": 50,
-      "remark": "地鐵票"
-    }
-  ],
-  "2024-08-26": [
-    {
-      "type": "飲食",
-      "income_or_expenditure": "income",
-      "cost": 30,
-      "remark": "早餐"
-    },
-    {
-      "type": "飲食",
-      "income_or_expenditure": "income",
-      "cost": 50,
-      "remark": "早餐"
-    },
-    {
       "type": "test",
-      "income_or_expenditure": "expenditure",
-      "cost": "10",
-      "remark": "測試"
+      "cost": "20",
+      "remark": "測試",
+      "id": "176658462d564ed4620d58a372f8b4ee06b0ebd4924b721878c7101fe9661796"
+    }
+  ],
+  "2024-08-28": [
+    {
+      "income_or_expenditure": "income",
+      "type": "文具",
+      "cost": "77",
+      "remark": "玩具(修改)",
+      "id": "a1fe16e20f2dd395591ec034c4706a9e756bf4dd80f5b12114ea6113da65526c"
     }
   ]
 }
